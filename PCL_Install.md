@@ -1,5 +1,6 @@
 # vmware ubuntu 20.04 pcl install
 #### 参考链接
+> * [PCL入门教程](https://www.yuque.com/huangzhongqing/pcl/aghhcg "PCL入门教程")
 > * [vmware_ubuntu_20.4 pcl安装](https://blog.csdn.net/weixin_44708246/article/details/130439855?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-130439855-blog-120827256.235^v38^pc_relevant_anti_vip_base&spm=1001.2101.3001.4242.3&utm_relevant_index=7 "vmware ubuntu 20.04 pcl安装")
 > * [安装pcl的详细步骤与走过的坑](https://www.cnblogs.com/linzzz98/p/13746949.html "安装pcl的详细步骤与走过的坑")
 > * [ubuntu20.4安装pcl](https://blog.csdn.net/qq_41092406/article/details/117930972 "ubuntu20.4安装pcl")
@@ -142,6 +143,7 @@ sudo apt-get install libopenni2-dev
     ~~~
   * 运行成功将得到一个3D模型
 #### 参考链接
+> * [PCL入门教程](https://www.yuque.com/huangzhongqing/pcl/aghhcg "PCL入门教程")
 > * [vmware_ubuntu_20.4 pcl安装](https://blog.csdn.net/weixin_44708246/article/details/130439855?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-130439855-blog-120827256.235^v38^pc_relevant_anti_vip_base&spm=1001.2101.3001.4242.3&utm_relevant_index=7 "vmware ubuntu 20.04 pcl安装")
 > * [安装pcl的详细步骤与走过的坑](https://www.cnblogs.com/linzzz98/p/13746949.html "安装pcl的详细步骤与走过的坑")
 > * [ubuntu20.4安装pcl](https://blog.csdn.net/qq_41092406/article/details/117930972 "ubuntu20.4安装pcl")
